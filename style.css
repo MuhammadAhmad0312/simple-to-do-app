@@ -1,0 +1,22 @@
+
+
+.center {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: auto;
+      border: 3px solid green;
+      width:400px;
+    }
+
+  .child{
+    padding: 100px;
+  }
+   .main{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+    
+   }
